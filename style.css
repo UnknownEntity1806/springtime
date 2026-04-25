@@ -113,7 +113,7 @@ a:hover{
 
 header {
   /* set the header image below as background for the header */
-  background: url("/assets/header.webp") no-repeat center center;
+  background: url("./assets/header.webp") no-repeat center center;
   background-size: cover;
   min-width: 100%;
   min-height: 400px;
